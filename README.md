@@ -14,7 +14,7 @@ NB: I use `D0`as input, but it could be D1, D2, etc ...
 ## Code
 
 ### firmware.uf2
-This firmware has been modifed to work with iOS so you need this one to flash your board and use circuitpython.
+This firmware has been modified to work with iOS so you need this one to flash your board and use circuitpython.
 
 ### main.py
 It's your python code, where the logic is.
