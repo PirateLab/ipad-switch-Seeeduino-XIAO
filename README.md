@@ -13,7 +13,14 @@ NB: I use `D0`as input, but it could be D1, D2, etc ...
 
 ## Code
 
-coming...
+### firmware.uf2
+This firmware has been modifed to work with iOS so you need this one to flash your board and use circuitpython.
+
+### main.py
+It's your python code, where the logic is.
+
+### adafruit_hid
+You’ll need to add some CircuitPython library into the `lib` folder on your CIRCUITPY drive. You can directly copy the directory `adafruit_hid`or get the following files `__init__.mpy`, `keyboard_layout_us.mpy`, `keyboard.mpy` and `keycode.mpy` (directory `adafruit_hid`) from the [CircuitPython library bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20201028/adafruit-circuitpython-bundle-5.x-mpy-20201028.zip "CircuitPython library bundle")
 
 ## iOS configuration
 
