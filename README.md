@@ -9,9 +9,9 @@ The idea was to use Circuitpython on a Seeeduino-XIAO to make a switch (button) 
 * Cable to short pins
 * Switch/button
 
-### Connection with the switch
+### Connexion with the switch
 
-![Image of the Seeduinoa-XIAO connection with the switch](https://github.com/maeldd/ipad-switch-Seeeduino-XIAO/blob/main/assets/images/Seeduinoa-XIAO%20connection%20with%20the%20switch.png)
+![Image of the Seeduinoa-XIAO connexion with the switch](https://github.com/maeldd/ipad-switch-Seeeduino-XIAO/blob/main/assets/images/Seeduinoa-XIAO%20connexion%20with%20the%20switch.png)
 
 NB: I use `D0`as input, but it could be D1, D2, etc ...
 
