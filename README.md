@@ -9,6 +9,10 @@ The idea was to use Circuitpython on a Seeeduino-XIAO to make a switch (button) 
 * Cable to short pins
 * Switch/button
 
+### Connection with the switch
+
+![Image of the Seeduinoa-XIAO connection with the switch]()
+
 NB: I use `D0`as input, but it could be D1, D2, etc ...
 
 ## Code
@@ -30,7 +34,7 @@ Follow Apple guide -> [Switch control](https://support.apple.com/en-us/HT201370 
 
 ### How to install Circuitpython on my Seeeduino-XIAO ?
 You only need to connect your Seeduino-XIAO to your computer and short two pins.
-For more details you can refer to these two links : 
+For more details you can refer to these two links :
 * [Wiki Seeedstudio](https://wiki.seeedstudio.com/Seeeduino-XIAO-CircuitPython/ "Wiki Seeedstudio")
 * [installing-circuitpython-on-seeeduino-xiao](https://makeandymake.github.io/2020/05/02/installing-circuitpython-on-seeeduino-xiao.html "installing circuitpython on seeeduino-xiao")
 
