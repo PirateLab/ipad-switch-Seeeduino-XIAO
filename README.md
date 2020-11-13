@@ -49,6 +49,5 @@ Look at Andy's work for exemple -> [seeeduino xiao circuitpython usb hid macro k
 
 * [Wiki Seeedstudio](https://wiki.seeedstudio.com/Seeeduino-XIAO-CircuitPython/ "Wiki Seeedstudio")
 * [Seeeduino xiao circuitpython usb hid macro keypad](https://makeandymake.github.io/2020/05/02/seeeduino-xiao-circuitpython-usb-hid-macro-keypad.html "seeeduino xiao circuitpython usb hid macro keypad")
-* https://forums.adafruit.com/viewtopic.php?f=60&t=168740
 * [Adafruit forum - firmeware for iOS](https://forums.adafruit.com/viewtopic.php?f=60&t=168740 "Discussion about firmeware modification for iOS")
 * [Apple guide for setting a switch control](https://support.apple.com/en-us/HT201370 "Apple guide for setting a switch control")
